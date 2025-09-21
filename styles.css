@@ -4,6 +4,7 @@
 }
 .content_sec {
 	width: 600px ;
+	padding: 50px;
 	overflow-y: auto;
 }
 th, td , table {
