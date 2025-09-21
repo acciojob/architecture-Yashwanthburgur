@@ -1,15 +1,1 @@
-.img_sec {
-	width: 200px ;
-	height: 150px ;
-}
-.content_sec {
-	width: 600px ;
-	padding: 50px;
-	overflow-y: auto;
-}
-th, td , table {
-  border: 1px solid grey;
-  padding: 8px;
-  text-align: left;
-	background-color: lightcyan
-}
+
